@@ -2,6 +2,10 @@
 
 A Perl one-liner that demonstrates the concept of typoglycemia by scrambling the middle letters of words while keeping the first and last letters intact.
 
+## Rating
+
+- 🌶️🌶️🌶️ Hot: For the adventurous.
+
 ## Overview
 
 Typoglycemia is a phenomenon where the human brain can understand words even when their internal letters are scrambled, as long as the first and last letters remain in place. This project provides a simple tool to convert normal text into a "typoglycemic" version, showcasing this interesting aspect of human cognition and language processing.
