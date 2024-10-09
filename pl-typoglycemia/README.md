@@ -1,5 +1,7 @@
 # Typoglycemia Converter
 
+*By: [16BitMiker](https://github.com/16BitMiker)* 
+
 A Perl one-liner that demonstrates the concept of typoglycemia by scrambling the middle letters of words while keeping the first and last letters intact.
 
 ## Rating
