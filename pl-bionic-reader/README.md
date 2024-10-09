@@ -1,5 +1,7 @@
 # Bionic Reader
 
+*By: [16BitMiker](https://github.com/16BitMiker)* 
+
 A Perl one-liner to enhance text for faster reading using the bionic reading technique.
 
 ## Rating
