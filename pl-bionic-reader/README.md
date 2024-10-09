@@ -2,6 +2,10 @@
 
 A Perl one-liner to enhance text for faster reading using the bionic reading technique.
 
+## Rating
+
+- 🌶️🌶️🌶️🌶️ Extra Hot: (Perl mastery required!)
+
 ## Overview
 
 Bionic Reader is a command-line tool that modifies text to improve reading speed and comprehension. It works by bolding the first 40% of each word, allowing the brain to quickly recognize and process the text more efficiently.
