@@ -35,7 +35,7 @@ Got a zesty Perl one-liner to share? We'd love to add it to our menu! Fork this 
 
 ## 📜 License
 
-This culinary code collection is served under the [MIT License](LICENSE.md). Bon appétit!
+This culinary code collection is served under the [MIT License](LICENSE). Bon appétit!
 
 Remember: With great power comes great responsibility. Use these Perl one-liners wisely and always test on a small sample before applying to large datasets.
 
