@@ -1,4 +1,4 @@
-# Perl MySQL and CMS Backup/Restore Tools
+# MySQL and CMS Backup/Restore Tools
 
 *By: [16BitMiker](https://github.com/16BitMiker)* 
 
