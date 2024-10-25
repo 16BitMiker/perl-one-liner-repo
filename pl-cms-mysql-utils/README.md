@@ -1,5 +1,7 @@
 # Perl MySQL and CMS Backup/Restore Tools
 
+*By: [16BitMiker](https://github.com/16BitMiker)* 
+
 This repository contains a collection of Perl one-liners for MySQL database and Content Management System (CMS) backup and restore operations. These scripts provide efficient and streamlined solutions for managing database and file-based backups.
 
 ## Scripts
