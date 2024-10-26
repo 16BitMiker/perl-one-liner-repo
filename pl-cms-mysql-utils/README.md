@@ -4,6 +4,10 @@
 
 This repository contains a collection of Perl one-liners for MySQL database and Content Management System (CMS) backup and restore operations. These scripts provide efficient and streamlined solutions for managing database and file-based backups.
 
+## Rating
+
+🌶️ Mild: Easy to digest
+
 ## Scripts
 
 1. `pl-mysql-backup-db.sh`: Performs a backup of MySQL databases.
